@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Challenge 10k",
+    "price": "107",
+    "profite": "12",
+    "draw_down": "8",
+    "daily_loss": "4"
+  },
+  {
+    "title": "Challenge 25k",
+    "price": "207",
+    "profite": "12",
+    "draw_down": "8",
+    "daily_loss": "4"
+  },
+  {
+    "title": "Challenge 50k",
+    "price": "307",
+    "profite": "12",
+    "draw_down": "8",
+    "daily_loss": "4"
+  },
+  {
+    "title": "Challenge 100k",
+    "price": "407",
+    "profite": "12",
+    "draw_down": "8",
+    "daily_loss": "4"
+  }
+]
